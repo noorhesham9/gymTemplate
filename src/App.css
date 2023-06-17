@@ -147,3 +147,10 @@ body {
     width: 280px;
   }
 }
+
+.MuiPagination-root button[aria-current="true"] {
+  font-weight: bold;
+  font-size: 18px;
+  color: #ff2625;
+  text-shadow: 3px 2px 2px #ff0000a3;
+}
